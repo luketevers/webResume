@@ -1,0 +1,27 @@
+{
+  "name": "webresume",
+  "version": "1.0.0",
+  "description": "My website just for me!",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luketevers/webResume.git"
+  },
+  "keywords": [
+    "Luke",
+    "Evers",
+    "Front-End",
+    "Developer",
+    "Software",
+    "Engineer"
+  ],
+  "author": "luketevers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luketevers/webResume/issues"
+  },
+  "homepage": "https://github.com/luketevers/webResume#readme"
+}
